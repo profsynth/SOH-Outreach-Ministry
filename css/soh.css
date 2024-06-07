@@ -1,0 +1,100 @@
+
+.navbar{
+    background-color: rgb(255, 255, 255);
+}
+.navbar2{
+    background-color: chocolate;
+    color: white;
+}
+.h6{
+    text-align: center;
+}
+
+
+.abc{
+    color: rgb(9, 158, 245);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    
+    border-radius: 10px;
+    
+}
+.abc:hover{
+    color: rgb( 243, 166, 78);
+   
+    
+}
+.img1{
+    border-radius: 40px;
+    padding: 10px;
+    margin: 10px;
+    background-color: rgb(241, 241, 241);
+    border: 2px wheat;
+}
+.h5{
+    text-align: center;
+}
+.para1{
+    padding: 10px;
+    margin: 10px;
+    font-family: Arial, Helvetica, sans-serif;   
+}
+.imggrid{
+    border-radius: 15px;
+    padding: 10px;
+    margin: 10px;
+    background-color: rgb(241, 241, 241);
+    border: 2px wheat;
+}
+h5{
+    text-align: center;
+    color: rgb(4, 108, 73);
+}
+.para3{
+    text-align: center;
+    padding: 10px;
+    margin: 10px;
+}
+.para4{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;   
+}
+.MAP{
+    border-radius: 10PX;
+}
+.h44{
+    padding-left: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(56, 117, 182);
+}
+.para6{
+    padding-left: 15px;
+    font-family: Arial, Helvetica, sans-serif; 
+}
+.h44:hover{
+    color: forestgreen;
+   
+}
+.paraone{
+    padding-left: 15px;
+    font-family: Arial, Helvetica, sans-serif; 
+    color: rgb(56, 117, 182);
+}
+.htwo{
+    padding-left: 15px;
+    font-family: Arial, Helvetica, sans-serif; 
+    color: rgb(0, 0, 0); 
+}
+.imgg{
+    margin: 5%;
+    padding: 5px;
+    border-radius: 5px;
+    border: 2px solid rgb(19, 87, 2);
+}
+.aaa{
+    list-style-type: none;
+    text-align: center;
+}
+.aa1{
+    color: aliceblue;
+}
